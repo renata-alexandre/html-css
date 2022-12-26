@@ -1,0 +1,8 @@
+Citações 
+
+Usamos:
+<q> <q/>
+
+Para citações longas, usamos>
+<blackquote>
+que ficam em blocos. 

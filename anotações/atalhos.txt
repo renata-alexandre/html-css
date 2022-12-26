@@ -1,0 +1,22 @@
+Atalhos Visual Studio Code
+
+Envelopar: 
+Cntrl + Shift + p (Emmet with abreviation)
+
+Selecionar texto: 
+Shift + e 
+
+Ir para outra linha
+Cntrl + enter
+
+Adicionar comentário: 
+Shift + alt + a
+
+Mostra quantas páginas você tem
+Cntrl + espaço 
+
+Vai para outra linha 
+Cntrl + enter 
+
+Segurar alt e a linha que deseja = escreve nas duas
+

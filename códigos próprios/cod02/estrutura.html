@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic and Grouping Tags</title>
+    <style>
+        body {
+            font: 1em Arial, Helvetica, sans-serif; 
+            background-color: peachpuff;
+        }
+        article#caixa {
+            background-color: snow; 
+            width: 400px;
+            margin: auto;
+            padding: 1px 10px;
+            box-shadow: 3px 5px 4px black;
+            border-radius: 10px 30px;
+        }
+
+        .caixanav {
+            background-color: snow;
+            width: 1200px;
+            margin: auto;
+            padding: 1px 10px;
+            box-shadow: 3px 5px 4px rgba(0, 0, 0, 0.39);
+            border-radius: 10px;
+        }
+
+        .caixap {
+            background-color: snow;
+            width: 1200px;
+            margin: auto;
+            padding: 1px 10px;
+            box-shadow: 3px 5px 4px rgba(0, 0, 0, 0.39);
+            border-radius: 10px;
+
+        }
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav class="caixanav">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis harum ipsam sed at reiciendis minus quidem asperiores. Magni quis praesentium omnis sed saepe. Quas, molestias porro quae doloribus placeat maxime?</nav>
+    </header>
+    <main>
+        <section>
+            <article id="caixa">
+                <h2>Título</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam suscipit veniam labore praesentium adipisci sequi voluptates minima doloremque minus delectus. Ab sapiente obcaecati inventore totam animi perspiciatis esse dignissimos aut.</p>
+            </article>
+            <article>
+                <h2>Título</h2>
+                <p class="caixap">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias autem soluta qui harum labore aperiam unde repellat at non facilis nihil, ex atque hic nesciunt, eum odio. Veniam, doloribus voluptatibus?</p>
+                <aside>
+                    conteúdo periférico do conteúdo
+                </aside>
+            </article>
+        </section>
+        <aside>
+            conteúdo periférico do site
+        </aside>
+    </main>
+    <footer>
+        conteúdo do rodapé
+    </footer>
+    
+</body>
+</html>

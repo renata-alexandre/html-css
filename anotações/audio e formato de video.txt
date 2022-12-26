@@ -1,0 +1,40 @@
+Áudio e formato de vídeo
+
+    <audio preload="metadata" autoplay controls loop>
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg">
+        <source src="midia/guanacast-33.mp3" type="audio/ogg">
+        <source src="midia/guanacast-33.mp3" type="audio/wav">
+        <p>Infelizmente o seu navegador não consegue reproduzir áudio <a href="midia/guanacast-33.mp3"> Clique aqui para baixar o arquivo MP3</a></p>
+    </audio>
+
+Painel Youtube 
+--> Biblioteca de música > todas as licenças 
+Tem muito navegador que não é compátivel com formatos de mídias
+
+maneira limitada
+<audiosrc="media/happy-mistake.mp3 controls autoplay"></audio>
+
+Maneira melhor 
+A ordem é importante
+Ele tenta carregar com acordo com a ordem, se o navegador não carregar, o navegador não consegue reproduzir 
+
+Tipos de arquivos
+mpeg; ogg; wav 
+evite usar wav, pois é muito pesado 
+
+Formatos de vídeo 
+Não pode compromete UX do site 
+
+Formatos: mp4; webm; ogg 
+(tenha vários arquivos com vários formatos) 
+
+Vídeo interno pode ficar muito caro 
+
+Code:
+<video width="500" poster="imagens/mountais.jpg" controls>
+<source src="midia/meu-video.mp4" type="video/mp4">
+
+ferramenta 
+handbroke (converter vídeo em formato menor) 
+
+Vídeo externo pela ferramenta incorporar (vimeo;yt) 

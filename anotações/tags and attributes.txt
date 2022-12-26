@@ -1,0 +1,21 @@
+Tags and attrinutes 
+
+We have tags and attributes 
+<a> is a tag 
+href is an attribute 
+
+href = you can use with the anchor tag 
+src = you can use with the image tag 
+style = rule the presentation of the document. You can use it in paragraphs, headings, body, etc. 
+
+<a href> = add a hyperlink 
+
+Style can be used as an HTML tag. 
+
+We can build a new form, a table, we can even prepare a list by using the <form> <table> <li> tags. 
+
+Using style as an element is termed as embedded style. 
+
+Denotation: <style> </style> 
+Location: It’s placed inside the head tag 
+Usage: It lets you enhance the look and feel of the webpage

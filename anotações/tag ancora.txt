@@ -1,0 +1,35 @@
+Ancor Tag (tag âncora) 
+
+Serve para adicionar links externos 
+
+<a href="www.google.com">
+
+Para links externos é recomendável usar a tag 
+
+target="_blank" rel="external"
+
+utilizamos para abrir uma nova guia e não sobrepor site dentro do site. Ou seja, não leva para outra página.
+
+Link Interno 
+Usamos a tag âncora 
+<a href="page02.html"> 
+
+ajuda o algoritmo de busca, mas não muda nada visualmente no site 
+rel="next"
+rel="prev"
+
+O link funciona, mas você não dá aval para o conteúdo 
+O algoritmo não indexa: 
+"nofollow" 
+
+Abre na sua própria página, não abre uma nova guia
+<target="_self">
+
+Te dá opções que estão na pasta: 
+<../index.html>
+
+
+
+
+
+ 

@@ -1,0 +1,21 @@
+Colocar código-fonte 
+
+Muda o formato da fonte para o código ficar mais legível. 
+<code> <code/>
+
+O code não organiza o código (indentação) 
+Comando fica do lado de um outro. Então colocamos a tag <pre> 
+Dentro do <body> 
+
+    <pre>
+        <code>
+        num = int(input('Digite um número'))
+        if num % 2 == 0:
+        print(f'O número {num} é PAR')
+        else:
+        print(f'O número {num} é ÍMPAR')
+        print('fim do programa')
+        </code>
+    </pre>
+
+

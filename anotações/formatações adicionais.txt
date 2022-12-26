@@ -1,0 +1,22 @@
+Formatações adicionais 
+
+marca texto em html
+<mark> </mark>
+
+mudar cor em css: 
+<mark style="background-color:lime;"
+se tiver muito o código <style> tem que vir no <head> 
+
+use <small> ou invés de <big>, que virou obsoleto 
+
+texto riscado: 
+<del> </del> 
+
+sublinado: 
+<ins> </ins>  
+
+texto sobrescrito: x20+3 
+<sup> </sup> 
+
+texto subscrito: h20 
+<sub> </sub> 

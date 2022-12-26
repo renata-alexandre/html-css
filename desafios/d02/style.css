@@ -1,0 +1,105 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+@font-face {
+    font-family: 'idroid';
+    src: url('fontes/idroid.otf') format('opentype');
+} 
+
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: #04BF8A;
+}
+
+.primeiro {
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.segunda {
+    font-family: 'Titillium Web', sans-serif;
+    text-align: left;
+    background-color: #03A64A;
+    color: white;
+    font-weight: bold;
+    border: 30px;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-image: linear-gradient(#025940, #04BF8A);
+    width: 100%;
+    margin: 0px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.281);
+}
+
+header > p {
+    text-align: center;
+    color: white;
+}
+
+nav > a {
+    text-decoration: none; 
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+    /* coloque esse elemento mais para baixo */
+}
+
+h1 {
+    font-family: 'idroid';
+    color: #025940;
+}
+
+h2 {
+    font-family: 'idroid';
+    color: #025940;
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+}
+
+main > iframe {
+    background-color: #025940;
+    width: 730px;
+    height: 415px;
+    padding: 20px 40px;
+}
+
+main > li {
+    display: block;
+}
+
+aside {
+    background-color: #9AEBA3;
+    width: 700px;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.459);
+    border-radius: 10px;
+    
+}
+footer {
+    background-color: #025940;
+    text-align: center;
+    padding: 0px;
+    margin: auto;
+    color: white;
+}
+
+
+
+
+

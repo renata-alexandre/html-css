@@ -1,0 +1,14 @@
+Links para download 
+<a href="example.pdf" download="example.pdf" type=application/pdf> Baixar </a>
+
+Temos outros tipos de arquivos como o zip
+Às vezes o navegador abre apenas o pdf, mas o zip sempre funciona o download
+
+Site para conferir type 
+Media Type 
+
+
+
+
+
+ 

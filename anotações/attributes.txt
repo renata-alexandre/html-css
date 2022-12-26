@@ -1,0 +1,4 @@
+Attributes
+alt
+texto alternativo 
+<img src=”bird.jpg” alt=”love bird” width=”104” height=”142”> 

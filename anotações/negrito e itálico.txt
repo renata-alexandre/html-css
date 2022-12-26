@@ -1,0 +1,9 @@
+Negrito e Itálico 
+
+Atualmente não usamos a <b> </b>, por ser uma tag semântica. 
+Prefira: <strong> </strong> 
+
+Para itálico:
+<em> </em> 
+
+Lembre-se: semântica é HTML, forma é CSS 

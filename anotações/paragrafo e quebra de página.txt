@@ -1,0 +1,45 @@
+Parágrafos e Quebra de páginas
+
+<p> </p> paragraph 
+<br> break
+&lt; p&gt  visualizar tags no navegador sem usar a função delas, de fato. 
+<! – – > Adiciona comentários   
+
+Símbolos e caracteres 
+
+&reg símbolo marca registrada
+&copy símbolo copyright 
+
+Código emoji 
+&#x 
+
+Imagens: 
+Aplicativos e plataformas
+Unsplash 
+Pexels 
+Gimp 
+
+Formatos de imagens
+Basicamente há dois formatos para web: jpeg e png. A escolha de qual usar dependerá da necessidade. 
+
+Melhor opção: 
+Imagem de background: JPEG
+Imagem flutuando por cima: PNG 
+
+Diferenças principais: 
+JPEG: compacta imagem
+PNG: mais recente; criado para substituir o GIPHY; permite transparência. 
+
+Definição: 
+Uma imagem é um conjunto de pontos. 
+
+Byte: escala de tamanho de arquivo.  
+1 byte (B) = 8 bits
+1 kilobyte (KB) = 1.024 bytes
+1 megabyte (MB) = 1.024 kilobytes
+1 gigabyte (GB) = 1.024 megabytes
+1 terabyte (TB) = 1.024 gigabytes
+1 petabyte (PB) = 1.024 terabytes
+1 exabyte (EB) = 1.024 petabytes
+1 zettabyte (ZB) = 1.024 exabytes
+1 yottabyte (YB) = 1.024 zettabytes

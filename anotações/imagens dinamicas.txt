@@ -1,0 +1,32 @@
+Imagens Dinâmicas 
+
+Imagens para multitelas 
+Para celular= gere imagens pequenas 
+300x300 
+80 (resolução) 
+8 bits 
+
+Tablet = imagens médias 
+700x700
+
+Notebook = imagens grandes
+1000x1000
+
+Permite que você crie vários "src", ou seja, fontes
+<picture> </picture>
+
+<picture> 
+     <img scr="" alt="">
+
+Mudar o tamanho de imagem, de acordo da tela 
+<source media="(max-width.1050)" scrset="imagens/foto-m.png" type="image/png"></source>
+
+A IMAGEM MENOR TEM DE ESTAR EM CIMA SEMPRE 
+
+
+
+
+
+
+
+ 

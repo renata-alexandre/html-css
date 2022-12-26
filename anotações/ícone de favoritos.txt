@@ -1,0 +1,11 @@
+Ícones de favorito 
+
+Ferramentas: 
+favicon 
+iconarchive 
+favicon.io
+
+Adicionamos o ícone depois do <meta> 
+<linkrel="shortcut icon" href="favicon.ico"
+
+O ícone deve estar no repositório de imagens para funcionar. 

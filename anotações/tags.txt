@@ -1,0 +1,11 @@
+HTML TAGS
+
+<hr> adiciona uma linha horizontal 
+<head> não visível para leitores  
+<body> conteúdo da página 
+<h1> título mais importante
+<h6> título menos importante
+<p> parágrafo
+<br> quebra de parágrafo
+<a href=”www.google.com”>link</a> adiciona hiperlink 
+<div> 
