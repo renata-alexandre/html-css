@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap'); 
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap'); 
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 0px;
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 70px;
+}
+
+header h1 {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 6rem;
+}
+
+header p {
+    font-family: 'Passion One', cursive;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+a { 
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+
+section:nth-of-type(1) {
+    height: 700px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-size: 3rem;
+}
+section:nth-of-type(2) {
+    background-image: url(imagens/background001.jpg); 
+    height: 700px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-size: 3rem;
+}
+
+
+section:nth-of-type(3) {
+    height: 1400px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-size: 3rem;
+}
+
+section:nth-of-type(4) {
+    background-image: url(imagens/background002.jpg); 
+    height: 700px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-size: 3rem;
+}
+
+section:nth-of-type(5) {
+    height: 1400px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-size: 3rem;
+}
+section p {
+    font-family: 'Sriracha', cursive;
+}
+
+footer {
+    background: black;
+    color: white;
+}
+
+footer p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
